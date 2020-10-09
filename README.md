@@ -3,6 +3,6 @@ The following project track Covid-19 cases of a country using Python. In this pr
 
 ## Prequisites 
 1. Download the **covid** library using the following command in command prompt :
-  -*pip install covid*-
+  **pip install covid**
 2. Download the **matplotlib** library using the following command in command prompt : 
-  -*pip install matplotlib*-
+  **pip install matplotlib**
